@@ -1,2 +1,1 @@
-# mongodb_helloworld
-mongodb_helloworld example
+# docker-mongodb 예시
