@@ -1,7 +1,7 @@
 # docker-mongodb Hello world PPT
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/2oF9s5YQjvLOJL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/HakGeonTEDKim/mongodb-241780215" title="개발자가 알면 좋은 Mongodb" target="_blank">개발자가 알면 좋은 Mongodb</a> </strong> from <strong><a href="https://www.slideshare.net/HakGeonTEDKim" target="_blank">Hak-Geon(TED) Kim</a></strong> </div>
-- 동기들에게 mongodb 개념을 설명하기 위해 만들었던 PPT와 예시자료
+- PPT : https://www.slideshare.net/HakGeonTEDKim/mongodb-241780215
+- 요약 : 동기들에게 mongodb 개념을 설명하기 위해 만들었던 PPT와 예시자료
 
 1. mongodb란
 ![image](https://user-images.githubusercontent.com/38391144/120108764-93e3b000-c1a1-11eb-8ccd-d18da78ff71a.png)
@@ -10,7 +10,7 @@
 처음에 DB를 공부하면 보통 Oracle을 배우잖아요 NoSql을 공부할 때도 MongoDb부터 시작하더라고요
 
 2. Mongodb 특징
-s![image](https://user-images.githubusercontent.com/38391144/120108755-8a5a4800-c1a1-11eb-8e2a-c9300f51f75e.png)
+<img src="https://user-images.githubusercontent.com/38391144/120108755-8a5a4800-c1a1-11eb-8e2a-c9300f51f75e.png" width="400">
 
 NoSql을 공부할 때도 MongoDb부터 시작하더라고요
 - Mongodb 4주전에 PPT 만들때만 해도 비싸다 이랬는데 ㅜㅜ
@@ -30,6 +30,6 @@ collection은 오라클의 table과 비슷한 개념이에요 ㅎ
  DDL 없이 바로 Insert하면 Collection이 만들어져요
  
 자세한 설명은 
- https://blog.naver.com/deet1107/222235518830ㅊ
+ https://blog.naver.com/deet1107/222235518830
  네이버 블로그를 참고해주세요
 
