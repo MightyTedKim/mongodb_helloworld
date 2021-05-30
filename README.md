@@ -1,4 +1,4 @@
-# docker-mongodb 예시
+# docker-mongodb Hello world PPT
 
 - https://image.slidesharecdn.com/mongodb-study-210124140901/95/mongodb-1-638.jpg?cb=1612696794
 - 동기들에게 mongodb 개념을 설명하기 위해 만들었던 PPT와 예시자료
