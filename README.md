@@ -1,6 +1,6 @@
 # docker-mongodb Hello world PPT
 
-- https://image.slidesharecdn.com/mongodb-study-210124140901/95/mongodb-1-638.jpg?cb=1612696794
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2oF9s5YQjvLOJL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/HakGeonTEDKim/mongodb-241780215" title="개발자가 알면 좋은 Mongodb" target="_blank">개발자가 알면 좋은 Mongodb</a> </strong> from <strong><a href="https://www.slideshare.net/HakGeonTEDKim" target="_blank">Hak-Geon(TED) Kim</a></strong> </div>
 - 동기들에게 mongodb 개념을 설명하기 위해 만들었던 PPT와 예시자료
 
 1. mongodb란
